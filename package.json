@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Diego Bayancela",
 	"description": "Un proyecto super cool",
+	"keywords": [ "descriptive", "gratiscodecampo", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
